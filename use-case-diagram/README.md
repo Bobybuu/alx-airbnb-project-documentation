@@ -67,17 +67,6 @@ alx-airbnb-project-documentation/
 
 ---
 
-## 🚀 Project Status
-
-| Feature                         | Status     |
-|----------------------------------|------------|
-| Features Diagram                | ✅ Complete |
-| Database Schema & ERD           | ⬜ In Progress |
-| API Endpoints Spec              | ⬜ In Progress |
-| Final Integration Plan          | ⬜ Pending |
-
----
-
 ## 🧠 Learning Objectives
 
 - Design and document backend architecture for a real-world app
