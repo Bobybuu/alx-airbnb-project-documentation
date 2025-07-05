@@ -8,7 +8,6 @@
 | Task 3   | Data Flow Diagram (DFD)                                           | ✅ Complete |
 | Task 4   | Flowchart for Backend Process                                     | ✅ Complete |
 | Task 5   | Requirement Specifications for Backend Features                  | ✅ Complete |
-| Task 6   | Manual Review (by ALX reviewers)                                  | ⬜ Pending  |
 
 ---
 
