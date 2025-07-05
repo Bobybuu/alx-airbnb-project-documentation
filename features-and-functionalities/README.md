@@ -41,7 +41,7 @@ To illustrate the main **interactions between users and the backend system**, ba
 
 | File Name        | Description                                |
 |------------------|--------------------------------------------|
-| `use-case.png`   | PNG image of the Airbnb Clone use case diagram |
+| `Features and Functionalities.drawio.png`   | PNG image of the Airbnb Clone use case diagram |
 | `README.md`      | Description and explanation of the diagram |
 
 ---
