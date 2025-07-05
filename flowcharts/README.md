@@ -33,7 +33,7 @@ This flowchart outlines the backend logic involved when a new user attempts to r
 | `README.md`                   | Description and purpose of this directory     |
 
 ---
-- Link [**Draw.io (diagrams.net)**](https://drive.google.com/file/d/1I82L4cPM_dwncAtHPNd74k8hZhoxFuY4/view?usp=sharing)
+- Link to Diagram in [**Draw.io (diagrams.net)**](https://drive.google.com/file/d/1I82L4cPM_dwncAtHPNd74k8hZhoxFuY4/view?usp=sharing)
 ## 🛠 Tool Used
 
 - Created with [**Draw.io (diagrams.net)**](https://draw.io)
